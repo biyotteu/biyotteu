@@ -1,9 +1,14 @@
 ## Minseop Kim
-* 반포고등하교 졸업
-* 동국대학교 재학중
+
+
+
+* 반포고
+* 동국대학교
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=biyotteu)](https://github.com/anuraghazra/github-readme-stats)
  
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjqtjq0516)](https://solved.ac/tjqtjq0516)
 
