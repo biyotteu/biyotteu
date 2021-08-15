@@ -1,4 +1,6 @@
-### Hi there 👋
+## Minseop Kim
+* 반포고등하교 졸업
+* 동국대학교 재학중
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=biyotteu)](https://github.com/anuraghazra/github-readme-stats)
  
