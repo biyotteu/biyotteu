@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![Solved.ac
-tjqtjq0516](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={tjqtjq0516})](https://solved.ac/{tjqtjq0516})
+
 
 
 <!--
