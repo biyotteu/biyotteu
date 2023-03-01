@@ -6,7 +6,7 @@
 - Mycelebs (2020.11 ~ 2021.3)
 - web development freelancer (2021.11 ~ 2022.03)
 
-### Awards
+### 🏆Awards
 - <a href="https://gallery1.osam.kr/award/military_third.jsp"><h4>2022 maicon AI competition (3rd)</h4></a>
   - https://github.com/biyotteu/Change-Detection
   - https://github.com/biyotteu/StrongSort
