@@ -10,7 +10,7 @@
 - <a href="https://gallery1.osam.kr/award/military_third.jsp"><h4>2022 maicon AI competition (3rd)</h4></a>
   - https://github.com/biyotteu/Change-Detection
   - https://github.com/biyotteu/StrongSort
-- <a href="https://osam.kr/hackathon/awards?m=v&wdnId=100" style="color:#fff"><h4>Defense Open Source Online Hackathon (Chief of Naval Staff Award)</h4></a>
+- <a href="https://osam.kr/hackathon/awards?m=v&wdnId=100" style="color:#fff"><h4>Defense Open Source Online Hackathon (Chief of Naval Operations Award)</h4></a>
   - https://github.com/biyotteu/WEB_CLOUD_OmilZomil_NAVYeffect
 
 ### 🤝 Contact
