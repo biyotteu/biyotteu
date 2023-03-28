@@ -4,7 +4,7 @@
 - Dongguk University (2020.03 ~ )
 - Navy (2022.06 ~ 2024.02)
 - Mycelebs (2020.11 ~ 2021.3)
-- Web Development Freelancer (2021.11 ~ 2022.03)
+- Web Development Freelancer (2021.11 ~ 2022.06)
 
 ### 🏆Awards
 - <a href="https://gallery1.osam.kr/award/military_third.jsp"><h4>2022 maicon AI competition (3rd)</h4></a>
