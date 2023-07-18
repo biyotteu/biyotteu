@@ -18,7 +18,7 @@
   - https://osam.kr/hackathon/awards?m=v&wdnId=100
   - https://github.com/biyotteu/WEB_CLOUD_OmilZomil_NAVYeffect
  
-- <h4>Navy•Marine ai contest (1st)</h4>
+- <h4>Navy•Marine ai contest (1st)</h4>
 
   - https://github.com/biyotteu/Yolov8Drone
 
