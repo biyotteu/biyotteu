@@ -12,11 +12,15 @@
   - https://gallery1.osam.kr/award/military_third.jsp
   - https://github.com/biyotteu/Change-Detection
   - https://github.com/biyotteu/StrongSort
-  - 
+  
 - <h4>Defense Open Source Online Hackathon (Chief of Naval Operations Award)</h4>
 
   - https://osam.kr/hackathon/awards?m=v&wdnId=100
   - https://github.com/biyotteu/WEB_CLOUD_OmilZomil_NAVYeffect
+ 
+- <h4>Navy•Marine ai contest (1st)</h4>
+
+  - https://github.com/biyotteu/Yolov8Drone
 
 ### 🤝 Contact
 <a href="mailto:tjqtjq0516@gmail.com" target="_blank"><img src="https://img.shields.io/badge/tjqtjq0516@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
