@@ -7,10 +7,15 @@
 - Web Development Freelancer (2021.11 ~ 2022.06)
 
 ### 🏆Awards
-- <a href="https://gallery1.osam.kr/award/military_third.jsp"><h4>2022 maicon AI competition (3rd)</h4></a>
+- <h4>2022 maicon AI competition (3rd)</h4>
+
+  - https://gallery1.osam.kr/award/military_third.jsp
   - https://github.com/biyotteu/Change-Detection
   - https://github.com/biyotteu/StrongSort
-- <a href="https://osam.kr/hackathon/awards?m=v&wdnId=100" style="color:#fff"><h4>Defense Open Source Online Hackathon (Chief of Naval Operations Award)</h4></a>
+  - 
+- <h4>Defense Open Source Online Hackathon (Chief of Naval Operations Award)</h4>
+
+  - https://osam.kr/hackathon/awards?m=v&wdnId=100
   - https://github.com/biyotteu/WEB_CLOUD_OmilZomil_NAVYeffect
 
 ### 🤝 Contact
