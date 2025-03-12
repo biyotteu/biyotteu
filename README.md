@@ -1,7 +1,7 @@
 
 
 ### 🤖Career
-- Dongguk University (2020.03 ~ 2024.12)
+- Korea University (2025.03 ~ )
 - Navy (2022.06 ~ 2024.02)
 - Mycelebs (2020.11 ~ 2021.3)
 - Web Development Freelancer (2021.11 ~ 2022.06)
@@ -24,7 +24,10 @@
   - https://github.com/biyotteu/Yolov8Drone
 
 ### 🤝 Contact
+<a href="[mailto:tjqtjq0516@gmail.com](https://www.linkedin.com/in/minseop-kim-255ba02b2/)" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin"/></a>
 <a href="mailto:tjqtjq0516@gmail.com" target="_blank"><img src="https://img.shields.io/badge/tjqtjq0516@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+
 
 ### 🧑‍💻 Skills
 <p>
