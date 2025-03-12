@@ -1,11 +1,10 @@
 
 
 ### 🤖Career
-- Korea University (2025.03 ~ )
+- Korea University (2025.02 ~ )
 - Naval Intelligence Information System Unit (2022.06 ~ 2024.02)
 - Mycelebs (2020.11 ~ 2021.3)
 - Web Development Freelancer (2021.11 ~ 2022.06)
-- Korea University (2025.02 ~ )
 
 ### 🏆Awards
 - <h4>2022 maicon AI competition (3rd)</h4>
